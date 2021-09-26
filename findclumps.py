@@ -24,4 +24,4 @@ def FrequencyMap(Text, k):
             freq[Pattern] = 1
     return freq
 
-print(FindClumps('', 9, 500, 3))
+print(FindClumps(' ', , , ))
