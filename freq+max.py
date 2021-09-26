@@ -18,4 +18,4 @@ def FrequencyMap(Text, k):
             freq[Pattern] = 1
     return freq
 
-print (FrequentWords('CGCCTAAATAGCCTCGCGGAGCCTTATGTCATACTCGTCCT', 3))
+print (FrequentWords(' ', ))
