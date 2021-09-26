@@ -18,4 +18,4 @@ def Complement(Pattern):
         comp += bp.get(base)
     return comp
 
-print(ReverseCompliment('TTGTGTC'))
+print(ReverseCompliment(' '))
