@@ -7,6 +7,5 @@ def PatternMatching(Pattern, Genome):
             positions.append(i)
     return positions
 
-data = PatternMatching('AA','AAACATAGGATCAAC')
+print(PatternMatching(' ',' '))
 
-print(*data, sep=' ')
