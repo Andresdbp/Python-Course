@@ -5,4 +5,4 @@ def PatternCount(Text, Pattern):
             count = count+1
     return count
 
-print(PatternCount('CGCGATACGTTACATACATGATAGACCGCGCGCGATCATATCGCGATTATC', 'CGCG'))
+print(PatternCount(' ', ' '))
